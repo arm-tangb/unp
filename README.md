@@ -15,3 +15,11 @@
 * URL: http://www.kohala.com/start/unpv12e.html
 
 * Source code: https://github.com/arm-tangb/unp/blob/master/unpv12e
+
+## UNIX Network Programming, Volume 2, Second Edition
+
+* Description: *UNIX Network Programming*, Volume 2, Second Edition: Interprocess Communications, Prentice Hall, 1999, ISBN 0-13-081081-9.
+
+* URL: http://www.kohala.com/start/unpv22e/unpv22e.html
+
+* Source code: https://github.com/arm-tangb/unp/blob/master/unpv22e
