@@ -8,3 +8,10 @@
 
 * Source code: https://github.com/arm-tangb/unp/blob/master/netprog
 
+## UNIX Network Programming, Volume 1, Second Edition
+
+* Description: *UNIX Network Programming*, Volume 1, Second Edition: Networking APIs: Sockets and XTI, Prentice Hall, 1998, ISBN 0-13-490012-X.
+
+* URL: http://www.kohala.com/start/unpv12e.html
+
+* Source code: https://github.com/arm-tangb/unp/blob/master/unpv12e
